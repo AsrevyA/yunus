@@ -1,0 +1,39 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "V12 Botlarının En İyisi Nightmare'dir ",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "dependencies": {
+    "quick.db": "^7.1.2",
+    "discord.js": "^12.5.0",
+    "jimp": "^0.16.1",
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "common-tags": "^1.8.0",
+    "node-superfetch": "^0.1.10",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "hastebin-gen": "^2.0.5",
+    "ms": "^2.1.2",
+    "moment-duration-format": "^2.3.2",
+    "axios": "^0.21.0",
+    "chance": "^1.1.7",
+    "dctr-antispam.js": "^0.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
